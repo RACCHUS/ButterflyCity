@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -41,3 +41,23 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Floor
+    uniqueID: 2043293693
+    locked: 0
+  - name: Walls
+    uniqueID: 3779673775
+    locked: 0
+  - name: Tanks
+    uniqueID: 1107775487
+    locked: 0
+  - name: Tanks
+    uniqueID: 831775457
+    locked: 0
+  - name: Bullets
+    uniqueID: 3570652833
+    locked: 0
+  - name: UI
+    uniqueID: 2481666273
+    locked: 0
+  m_RenderingLayers:
+  - Default
